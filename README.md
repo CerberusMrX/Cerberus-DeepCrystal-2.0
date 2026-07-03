@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Author-Sudeepa_Wanigarathna-9966cc?style=for-the-badge"/>
   
   <br/>
-  <h1>💎 Cerberus DeepCrystal</h1>
+  <h1>💎 Cerberus DeepCrystal V 2.0 </h1>
   <p><b>Advanced AI-Powered Mineral & Gemstone Forensic Laboratory</b></p>
   <p><i>A comprehensive virtual laboratory featuring zero-shot vision transformers, forensic reporting, and blockchain certification.</i></p>
 </div>
@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Overview
-Cerberus DeepCrystal is a cutting-edge web application designed to act as a virtual gemstone and mineral forensic laboratory. By combining real artificial intelligence models (OpenAI CLIP Vision Transformers) with rigorous gemological heuristics, the system identifies gemstones, detects treatments, estimates market value, and generates immutable blockchain certificates.
+Cerberus DeepCrystal V 2.0 is a cutting-edge web application designed to act as a virtual gemstone and mineral forensic laboratory. By combining real artificial intelligence models (OpenAI CLIP Vision Transformers) with rigorous gemological heuristics, the system identifies gemstones, detects treatments, estimates market value, and generates immutable blockchain certificates.
 
 Recently updated with our signature **"Crystal Facet"** UI—a premium, jewel-toned design system utilizing sapphire, emerald, and ruby aesthetics with glassmorphic refraction effects.
 
