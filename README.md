@@ -31,12 +31,32 @@ Recently updated with our signature **"Crystal Facet"** UI—a premium, jewel-to
 
 ## 📸 Screenshots
 
-
-| 📱 Dashboard | 🔍 Analysis Scanner |
-|:---:|:---:|
-| `![Dashboard Placeholder](docs/dashboard.png)` | `![Scanner Placeholder](docs/scanner.png)` |
-| 📚 Mineral Database | 📜 Forensic Report |
-| `![DB Placeholder](docs/database.png)` | `![Report Placeholder](docs/report.png)` |
+<table>
+  <tr>
+    <th align="center">📱 Dashboard</th>
+    <th align="center">🔍 Analysis Scanner</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/dashboard.PNG" alt="Dashboard" width="450"/>
+    </td>
+    <td align="center">
+      <img src="docs/scanner.PNG" alt="Analysis Scanner" width="450"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">📚 Mineral Database</th>
+    <th align="center">📜 Forensic Report</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/database.PNG" alt="Mineral Database" width="450"/>
+    </td>
+    <td align="center">
+      <img src="docs/report.PNG" alt="Forensic Report" width="450"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technology Stack
 
