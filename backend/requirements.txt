@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+qrcode[pil]
+passlib[bcrypt]
+python-dotenv
+aiofiles
+torch
+torchvision
+transformers
+scikit-learn
