@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-50c878?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version-1.0-0f52ba?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-2.0-0f52ba?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Author-Sudeepa_Wanigarathna-9966cc?style=for-the-badge"/>
   
   <br/>
@@ -31,7 +31,6 @@ Recently updated with our signature **"Crystal Facet"** UI—a premium, jewel-to
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
 
 | 📱 Dashboard | 🔍 Analysis Scanner |
 |:---:|:---:|
